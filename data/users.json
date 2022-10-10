@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1001,
+    "username": "Paul Thomas",
+    "age": 55
+  },
+  {
+    "id": 1002,
+    "username": "Caitlin Thomas",
+    "age": 22
+  },
+  {
+    "id": 1002,
+    "username": "Rory Thomas",
+    "age": 18
+  }
+]
